@@ -1,9 +1,72 @@
 <html>
 <head>
-<title>Jason and Liams Project</title>
+<title>Jason and Liam’s Project</title>
+<style>
+body {
+background-color: #00E8FF;
+}
+h1 {
+color: #FF0000;
+}
+h2 {
+color: #FF7C00;
+}
+h3 {
+color: #FE68E1
+}
+</style>
 </head>
+<h1 >The Funniest Jokes on the Planet!</h1>
+<p1>On this page we have jokes of all kinds! </p1>
+<h2>What did the janitor say when he jumped out of the closet?</h2>
 <body>
-<h1>Having lame friends is a part of my life</h1>
-<p1>For instance Liam Hamway is probably the worst friend ever. I am being forced to do this entire project all by myself and he is next to me playing video games.</p1>
-<h2>Liam is a lame friend</h2>
-<p2>He is super duper mean and always 
+<button type="button" onclick="alert('Supplies!')">Reveal Answer!</button>
+<img src="https://vignette.wikia.nocookie.net/villains/images/f/fb/Janitor_2.jpg/revision/latest?cb=20121122132016" style="width:400px;height:400px;">
+</body>
+<h2>What did the buffalo say to his son when he left for college?</h2>
+<body>
+<button type="button" onclick="alert('Bison!')">Reveal Answer!</button>
+<img src="http://finedininglovers.cdn.crosscast-system.com/ImageAlbum/5918/original_BLOG-IMAGE-CREDIT-buffalo.jpg">
+</body>
+<h2>What do you call a boomerang that doesn’t come back?</h2>
+<body>
+<button type="button" onclick="alert('A Stick!')">Reveal Answer!</button>
+<img src="http://www.productiveflourishing.com/wp-content/uploads/2010/10/Boomerang-Compressed.jpg" style="width:400px;height:400px;">
+</body>
+<h2>What happened when the toilet paper crossed the road?</h2>
+<body>
+<button type="button" onclick="alert('It got stuck in the crack!')">Reveal Answer!</button>
+<img src="https://provelopassion.files.wordpress.com/2011/07/wp_000359.jpg" style="width:400px;height:400px;">
+</body>
+<h1>Anti-Joke!</h1>
+<h2>What is green and has wheels?</h2>
+<body>
+<button type="button" onclick="alert('Grass I lied about the wheels!')">Reveal Answer!</button>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyMEDh8x0r7j2SseTz_-6JtcAduH_7tVVh1hvbMnL3DFZRnQv74Q" style="width:400px;height:400px;">
+<h2>What did the robot say to the centipede?</h2>
+<body>
+<button type="button" onclick="alert('Stop being a centipede! Get it? Cause a robot doesn’t have arms!')">Reveal Answer!</button>
+<img src=”https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Lithobius_forficatus.jpg/1200px-Lithobius_forficatus.jpg” style="width:400px;height:400px;">
+</body>
+<h2>What did the farmer say when he lost his tractor?</h2>
+<body>
+<button type="button" onclick="alert('Wheres my tractor!')">Reveal Answer!</button>
+<img src="https://www.deere.com/assets/images/region-4/products/tractors/e-series-tractors/5100e/5100e_eseries_r4a056959_large_af2bc7632c1a65fc75c39ee52e503d1431df01cc.jpg" style="width:400px;height:400px;">
+</body>
+<h1> Dumb Facts!</h1>
+<h3>
+Did you know that if you licked the Sun it would hurt?
+</h3>
+<h3>
+Did you know every minute, a minute goes by in Africa?
+</h3>
+<h3>
+Did you know that your chance of death increases to 100% when you're born?
+</h3>
+<h3>
+Did you know that Clownfish aren't actually part clown?
+</h3>
+<h1>
+For more fun jokes visit <a href="http://boyslife.org/features/32016/back-to-school-jokes/">This website!!</a>
+</html>
+
